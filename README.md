@@ -2,7 +2,7 @@
 
 # Hola, soy Sebastián Gutiérrez 👋
 
-Desarrollador de software enfocado en construir y escalar productos web. Mi experiencia abarca desde el diseño y migración de bases de datos y microservicios en C# / SQL Server, hasta el desarrollo de interfaces interactivas y herramientas de línea de comandos con React, Node.js y TypeScript.
+Desarrollador Junior apasionado por el desarrollo web y la resolución de problemas. Durante mi primer año de experiencia profesional, he tenido la oportunidad de apoyar la transición de sistemas corporativos en C# / SQL Server hacia arquitecturas más limpias. En paralelo, sigo fortaleciendo mi stack de JavaScript (React y TypeScript) creando herramientas útiles y de código abierto.
 
 ## 🛠️ Stack Tecnológico
 <p>
