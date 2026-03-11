@@ -1,4 +1,4 @@
-![Banner de Sebastián Gutiérrez](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Sebastián%20Gutiérrez&fontSize=60&desc=Desarrollador%20de%20Software%20JS%20/%20.NET&descSize=25&fontColor=ffffff)
+![Banner de Sebastián Gutiérrez](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Sebastián%20Gutiérrez&fontSize=60&textPosY=35&desc=Desarrollador%20de%20Software%20JS%20/%20.NET&descSize=25&descAlignY=60&fontColor=ffffff)
 
 # Hola, soy Sebastián Gutiérrez 👋
 
