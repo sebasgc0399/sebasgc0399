@@ -2,7 +2,7 @@
 
 # Hola, soy Sebastián Gutiérrez 👋
 
-Desarrollador de software enfocado en construir productos escalables e interfaces interactivas con el ecosistema JavaScript (React/Node.js) y .NET. Me apasiona automatizar flujos de trabajo e integrar IA en soluciones reales para los usuarios.
+Desarrollador de software enfocado en construir y escalar productos web. Mi experiencia abarca desde el diseño y migración de bases de datos y microservicios en C# / SQL Server, hasta el desarrollo de interfaces interactivas y herramientas de línea de comandos con React, Node.js y TypeScript.
 
 ## 🛠️ Stack Tecnológico
 <p>
