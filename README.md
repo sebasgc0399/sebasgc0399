@@ -23,9 +23,9 @@ Desarrollador de software enfocado en construir productos escalables e interface
 - **PoseTracker-JumpingJacks** → Visión por computador en Python para detectar y contar ejercicios de fitness.
 
 ## 🌱 Actualmente
-- 🏗️ Construyendo arquitectura y backend robustos para productos web útiles.
-- 🦀 Aprendiendo Rust para aprovechar sus beneficios de rendimiento y estabilidad en el backend.
-- 🤖 Explorando herramientas de IA para automatizar el desarrollo y el flujo de trabajo.
+- 🏢 Migrando un ecosistema monolítico heredado (ASP.NET) hacia una arquitectura moderna de **microservicios en .NET**, implementando patrones limpios (Controller → UseCase → Repository) y ADO.NET.
+- 💻 Refactorizando e integrando el frontend legacy (JavaScript/jQuery) para consumir las nuevas APIs de microservicios, estandarizando estructuras de datos (DTOs) y el manejo de errores.
+- 🚀 Construyendo **DaleFocus** (React/Node.js) y manteniendo la CLI open-source **agents-md** (TypeScript) en npm, enfocándome en crear herramientas de valor para los usuarios.
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
