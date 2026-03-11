@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/800x200/080808/3399FF/?text=Desarrollador+de+Software+%7C+Construyendo+soluciones+web" alt="Banner de Sebastián Gutiérrez" width="100%" />
+![Banner de Sebastián Gutiérrez](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Sebastián%20Gutiérrez&fontSize=60&desc=Desarrollador%20de%20Software%20JS%20/%20.NET&descSize=25&fontColor=ffffff)
 
 # Hola, soy Sebastián Gutiérrez 👋
 
