@@ -29,8 +29,8 @@ Desarrollador Junior apasionado por el desarrollo web y la resolución de proble
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebasgc0399&show_icons=true&theme=radical" alt="Estadísticas de sebasgc0399" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasgc0399&layout=compact&theme=radical" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebasgc0399&show_icons=true&theme=radical&cache_seconds=86400" alt="Estadísticas de sebasgc0399" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasgc0399&layout=compact&theme=radical&cache_seconds=86400" alt="Lenguajes más usados" height="150" />
 </p>
 
 ## 📫 Contacto
