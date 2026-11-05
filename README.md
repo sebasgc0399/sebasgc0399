@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=220&section=header&text=Sebasti%C3%A1n%20Guti%C3%A9rrez&fontSize=52&fontColor=0F172A&fontAlignY=35&desc=Desarrollador%20Fullstack%20%E2%80%A2%20.NET%20%E2%80%A2%20SQL%20Server%20%E2%80%A2%20Android&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="Sebastián Gutiérrez, desarrollador fullstack" />
 </picture>
 
-**Mecanismo > Memoria**: lo que se aprende se vuelve un chequeo, no un recordatorio.
+**Mecanismo > Memoria**: lo que se aprende se automatiza, no se recuerda.
 
 </div>
 
