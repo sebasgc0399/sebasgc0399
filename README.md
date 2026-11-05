@@ -43,7 +43,6 @@ Además de programar con IA, construyo las herramientas con las que trabajo.
 - **Móvil:** Android nativo (Java)
 - **Pruebas y herramientas:** MSTest, Moq, xUnit, Git, Azure DevOps (Boards y Repos)
 
-<!--
 ## Contribuciones
 
 <div align="center">
@@ -55,7 +54,6 @@ Además de programar con IA, construyo las herramientas con las que trabajo.
 </picture>
 
 </div>
--->
 
 ## Contacto
 
