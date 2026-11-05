@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E3A8A,50:1D4ED8,100:2563EB&height=220&section=header&text=Sebasti%C3%A1n%20Guti%C3%A9rrez&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Fullstack%20%E2%80%A2%20.NET%20%E2%80%A2%20SQL%20Server%20%E2%80%A2%20Android&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="Sebastián Gutiérrez, desarrollador fullstack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=220&section=header&text=Sebasti%C3%A1n%20Guti%C3%A9rrez&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Fullstack%20%E2%80%A2%20.NET%20%E2%80%A2%20SQL%20Server%20%E2%80%A2%20Android&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=220&section=header&text=Sebasti%C3%A1n%20Guti%C3%A9rrez&fontSize=52&fontColor=0F172A&fontAlignY=35&desc=Desarrollador%20Fullstack%20%E2%80%A2%20.NET%20%E2%80%A2%20SQL%20Server%20%E2%80%A2%20Android&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="Sebastián Gutiérrez, desarrollador fullstack" />
+</picture>
 
 **Mecanismo > Memoria**: lo que se aprende se vuelve un chequeo, no un recordatorio.
 
@@ -40,6 +43,18 @@ Además de programar con IA, construyo las herramientas con las que trabajo.
 - **Móvil:** Android nativo (Java)
 - **Pruebas y herramientas:** MSTest, Moq, xUnit, Git, Azure DevOps (Boards y Repos)
 
+## Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebasgc0399/sebasgc0399/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebasgc0399/sebasgc0399/output/snake.svg" />
+  <img alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/sebasgc0399/sebasgc0399/output/snake.svg" />
+</picture>
+
+</div>
+
 ## Contacto
 
 <div align="center">
@@ -47,6 +62,6 @@ Además de programar con IA, construyo las herramientas con las que trabajo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/sebasgc0399/)
 [![Correo](https://img.shields.io/badge/Correo-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasgc0399@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:1D4ED8,100:1E3A8A&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:2563EB&height=120&section=footer" width="100%" alt="" />
 
 </div>
